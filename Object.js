@@ -29,11 +29,13 @@ const car = {
     year: 2010,
 }
 
-const user = {
-    firstName: "",
-    lastName: "",
-    age: 90,
-    gender: "",
-    email: "",
-    password: ""
-}
+// const user = {
+//     firstName: "",
+//     lastName: "",
+//     age: 90,
+//     gender: "",
+//     email: "",
+//     password: ""
+// }
+
+
